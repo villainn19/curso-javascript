@@ -1,0 +1,9 @@
+{
+"titular": "Homero Simpson",
+"no_miembro": "1001", 
+"direccion": "742 Evergreen Terrace, Springfield",  
+"telefono":"636-555-3472",
+"email":"homersimpson@gmail.com", 
+"saldo": [ { "moneda": "usd", "monto": 725.09 }, { "moneda": "eu", "monto": 649.54} ],
+"miembro_desde": "1995"
+}

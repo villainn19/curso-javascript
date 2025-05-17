@@ -1,0 +1,10 @@
+{
+    "nombre" : "Juana Fernandez",
+    "edad" : 30,
+    "estudiante": false,
+    "direccion":{
+        "calle": "Ave. Primera N. 555",
+        "ciudad": "santo domingo"
+    },
+    "telefonos":["123-456-789","987-654-321"]
+}
